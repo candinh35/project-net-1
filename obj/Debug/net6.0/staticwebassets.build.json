@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OYbiFZnviDkuCP0xMli9tLh2VPDfQ7TYJsbtQbwV/k8=",
+  "Hash": "sRFq3lV3Uax/tMrsjLAoVUcemXnQ2ceninxHI/mDiSs=",
   "Source": "MyMvcProject",
   "BasePath": "_content/MyMvcProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyMvcProject\\wwwroot",
       "Source": "MyMvcProject",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyMvcProject.styles.css",
+      "Identity": "D:\\project-net\\project-net-1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyMvcProject.styles.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "MyMvcProject.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\project-net\\MyMvcProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyMvcProject.styles.css"
+      "OriginalItemSpec": "D:\\project-net\\project-net-1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyMvcProject.styles.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyMvcProject.bundle.scp.css",
+      "Identity": "D:\\project-net\\project-net-1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyMvcProject.bundle.scp.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "MyMvcProject.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\project-net\\MyMvcProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyMvcProject.bundle.scp.css"
+      "OriginalItemSpec": "D:\\project-net\\project-net-1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyMvcProject.bundle.scp.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\css\\site.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\css\\site.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\favicon.ico",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\favicon.ico",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\js\\site.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\js\\site.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\css\\demo.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\css\\demo.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/css/demo.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\css\\demo.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\avatars\\1.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\1.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/avatars/1.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\avatars\\1.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\avatars\\5.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\5.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/avatars/5.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\avatars\\5.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\avatars\\6.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\6.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/avatars/6.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\avatars\\6.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\avatars\\7.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\7.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/avatars/7.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\avatars\\7.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\backgrounds\\18.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\backgrounds\\18.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/backgrounds/18.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\backgrounds\\18.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\1.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\1.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/1.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\1.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\11.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\11.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/11.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\11.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\12.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\12.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/12.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\12.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\13.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\13.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/13.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\13.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\17.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\17.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/17.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\17.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\18.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\18.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/18.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\18.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\19.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\19.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/19.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\19.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\2.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\2.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/2.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\2.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\20.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\20.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/20.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\20.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\3.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\3.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/3.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\3.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\4.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\4.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/4.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\4.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\5.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\5.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/5.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\5.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\elements\\7.jpg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\7.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/elements/7.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\elements\\7.jpg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\favicon\\favicon.ico",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\favicon\\favicon.ico",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/favicon/favicon.ico",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\favicon\\favicon.ico"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\brands\\asana.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\asana.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/brands/asana.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\brands\\asana.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\brands\\behance.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\behance.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/brands/behance.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\brands\\behance.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\brands\\dribbble.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\dribbble.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/brands/dribbble.png",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\brands\\dribbble.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\brands\\facebook.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\facebook.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/brands/facebook.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\brands\\facebook.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\brands\\github.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\github.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/brands/github.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\brands\\github.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\brands\\google.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\google.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/brands/google.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\brands\\google.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\brands\\instagram.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\instagram.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/brands/instagram.png",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\brands\\instagram.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\brands\\mailchimp.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\mailchimp.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/brands/mailchimp.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\brands\\mailchimp.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\brands\\slack.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\slack.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/brands/slack.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\brands\\slack.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\brands\\twitter.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\twitter.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/brands/twitter.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\brands\\twitter.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-primary.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/unicons/cc-primary.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\unicons\\cc-primary.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-success.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-success.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/unicons/cc-success.png",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\unicons\\cc-success.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-warning.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/unicons/cc-warning.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\unicons\\cc-warning.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\unicons\\chart.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\chart.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/unicons/chart.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\unicons\\chart.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\unicons\\chart-success.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\chart-success.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/unicons/chart-success.png",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\unicons\\chart-success.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\unicons\\paypal.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\paypal.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/unicons/paypal.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\unicons\\paypal.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\unicons\\wallet.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\wallet.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/unicons/wallet.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\unicons\\wallet.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\wallet-info.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/icons/unicons/wallet-info.png",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\icons\\unicons\\wallet-info.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/illustrations/girl-doing-yoga-light.png",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\illustrations\\man-with-laptop-light.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/illustrations/man-with-laptop-light.png",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\illustrations\\man-with-laptop-light.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\illustrations\\page-misc-error-light.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/illustrations/page-misc-error-light.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\illustrations\\page-misc-error-light.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\layouts\\layout-container-light.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-container-light.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/layouts/layout-container-light.png",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\layouts\\layout-container-light.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\layouts\\layout-fluid-light.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-fluid-light.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/layouts/layout-fluid-light.png",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\layouts\\layout-fluid-light.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-without-menu-light.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/layouts/layout-without-menu-light.png",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\layouts\\layout-without-menu-light.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-without-navbar-light.png",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/img/layouts/layout-without-navbar-light.png",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\img\\layouts\\layout-without-navbar-light.png"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\js\\config.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\config.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/js/config.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\js\\config.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\js\\dashboards-analytics.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\dashboards-analytics.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/js/dashboards-analytics.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\js\\dashboards-analytics.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\extended-ui-perfect-scrollbar.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/js/extended-ui-perfect-scrollbar.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\js\\extended-ui-perfect-scrollbar.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\js\\form-basic-inputs.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\form-basic-inputs.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/js/form-basic-inputs.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\js\\form-basic-inputs.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\js\\main.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\main.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/js/main.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\js\\main.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\js\\pages-account-settings-account.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\pages-account-settings-account.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/js/pages-account-settings-account.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\js\\pages-account-settings-account.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\js\\ui-modals.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\ui-modals.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/js/ui-modals.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\js\\ui-modals.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\js\\ui-popover.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\ui-popover.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/js/ui-popover.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\js\\ui-popover.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\js\\ui-toasts.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\ui-toasts.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/js/ui-toasts.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\js\\ui-toasts.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\css\\core.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\core.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/css/core.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\css\\core.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-account-settings.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/css/pages/page-account-settings.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\css\\pages\\page-account-settings.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-auth.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-auth.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/css/pages/page-auth.css",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\css\\pages\\page-auth.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-icons.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-icons.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/css/pages/page-icons.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\css\\pages\\page-icons.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-misc.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-misc.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/css/pages/page-misc.css",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\css\\pages\\page-misc.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\css\\theme-default.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\theme-default.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/css/theme-default.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\css\\theme-default.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/fonts/boxicons.css",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\fonts\\boxicons.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/fonts/boxicons/boxicons.eot",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/fonts/boxicons/boxicons.svg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/fonts/boxicons/boxicons.ttf",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/fonts/boxicons/boxicons.woff",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/fonts/boxicons/boxicons.woff2",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\js\\bootstrap.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\js\\bootstrap.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/js/bootstrap.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\js\\helpers.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\js\\helpers.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/js/helpers.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\js\\helpers.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\js\\menu.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\js\\menu.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/js/menu.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\js\\menu.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/libs/apex-charts/apex-charts.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/libs/apex-charts/apexcharts.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/libs/highlight/highlight.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/libs/highlight/highlight.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight-github.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/libs/highlight/highlight-github.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight-github.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\jquery\\jquery.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/libs/jquery/jquery.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\libs\\jquery\\jquery.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\masonry\\masonry.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/libs/masonry/masonry.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\libs\\masonry\\masonry.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\assets\\vendor\\libs\\popper\\popper.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\popper\\popper.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/assets/vendor/libs/popper/popper.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\template\\assets\\vendor\\libs\\popper\\popper.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\fonts\\boxicons.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\fonts\\boxicons.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/fonts/boxicons.scss",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\template\\fonts\\boxicons.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\js\\bootstrap.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\js\\bootstrap.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/js/bootstrap.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\template\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\js\\helpers.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\js\\helpers.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/js/helpers.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\template\\js\\helpers.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\js\\menu.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\js\\menu.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/js/menu.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\template\\js\\menu.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\libs\\apex-charts\\apexcharts.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\apex-charts\\apexcharts.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/libs/apex-charts/apexcharts.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\template\\libs\\apex-charts\\apexcharts.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\libs\\apex-charts\\apex-charts.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\apex-charts\\apex-charts.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/libs/apex-charts/apex-charts.scss",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\template\\libs\\apex-charts\\apex-charts.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\libs\\highlight\\highlight.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\highlight\\highlight.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/libs/highlight/highlight.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\template\\libs\\highlight\\highlight.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\libs\\highlight\\highlight.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\highlight\\highlight.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/libs/highlight/highlight.scss",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\template\\libs\\highlight\\highlight.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\libs\\highlight\\highlight-github.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\highlight\\highlight-github.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/libs/highlight/highlight-github.scss",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\template\\libs\\highlight\\highlight-github.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\libs\\jquery\\jquery.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\jquery\\jquery.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/libs/jquery/jquery.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\template\\libs\\jquery\\jquery.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\libs\\masonry\\masonry.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\masonry\\masonry.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/libs/masonry/masonry.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\template\\libs\\masonry\\masonry.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/libs/perfect-scrollbar/perfect-scrollbar.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/libs/perfect-scrollbar/perfect-scrollbar.scss",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\libs\\popper\\popper.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\popper\\popper.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/libs/popper/popper.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\template\\libs\\popper\\popper.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap.scss",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended.scss",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_accordion.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_accordion.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_accordion.scss",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_accordion.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_alert.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_alert.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_alert.scss",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_alert.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_badge.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_badge.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_badge.scss",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_badge.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_breadcrumb.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_breadcrumb.scss",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_breadcrumb.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_button-group.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_button-group.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_button-group.scss",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_button-group.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_buttons.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_buttons.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_buttons.scss",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_buttons.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_card.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_card.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_card.scss",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_card.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_carousel.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_carousel.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_carousel.scss",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_carousel.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_close.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_close.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_close.scss",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_close.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_dropdown.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_dropdown.scss",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_dropdown.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_forms.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_forms.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_forms.scss",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_forms.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_functions.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_functions.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_functions.scss",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_functions.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_include.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_include.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_include.scss",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_include.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_list-group.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_list-group.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_list-group.scss",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_list-group.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_mixins.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_mixins.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_mixins.scss",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_mixins.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_modal.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_modal.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_modal.scss",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_modal.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_nav.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_nav.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_nav.scss",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_nav.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_navbar.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_navbar.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_navbar.scss",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_navbar.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_offcanvas.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_offcanvas.scss",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_offcanvas.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_pagination.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_pagination.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_pagination.scss",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_pagination.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_popover.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_popover.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_popover.scss",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_popover.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_progress.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_progress.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_progress.scss",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_progress.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_reboot.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_reboot.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_reboot.scss",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_reboot.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_root.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_root.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_root.scss",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_root.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_spinners.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_spinners.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_spinners.scss",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_spinners.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_tables.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_tables.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_tables.scss",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_tables.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_toasts.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_toasts.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_toasts.scss",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_toasts.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_tooltip.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_tooltip.scss",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_tooltip.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_type.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_type.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_type.scss",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_type.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_utilities.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_utilities.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_utilities.scss",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_utilities.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_utilities-ltr.scss",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\_variables.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_variables.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/_variables.scss",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\_variables.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/forms/_floating-labels.scss",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/forms/_form-control.scss",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/forms/_form-range.scss",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/forms/_form-select.scss",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/forms/_input-group.scss",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_labels.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/forms/_labels.scss",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_labels.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_validation.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/forms/_validation.scss",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_validation.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_alert.scss",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_badge.scss",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_caret.scss",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_dropdown.scss",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_forms.scss",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_misc.scss",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_navs.scss",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_progress.scss",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_table-variants.scss",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_bootstrap-extended/mixins/_toasts.scss",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_colors.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_colors.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_colors.scss",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_colors.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components.scss",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_app-brand.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_app-brand.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_app-brand.scss",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_app-brand.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_avatar.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_avatar.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_avatar.scss",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_avatar.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_base.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_base.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_base.scss",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_base.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_common.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_common.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_common.scss",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_common.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_footer.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_footer.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_footer.scss",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_footer.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_include.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_include.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_include.scss",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_include.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_layout.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_layout.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_layout.scss",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_layout.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_menu.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_menu.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_menu.scss",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_menu.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_mixins.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_mixins.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_mixins.scss",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_mixins.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_text-divider.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_text-divider.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_text-divider.scss",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_text-divider.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\_variables.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_variables.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/_variables.scss",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\_variables.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\mixins\\_app-brand.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_app-brand.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/mixins/_app-brand.scss",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\mixins\\_app-brand.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\mixins\\_avatar.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_avatar.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/mixins/_avatar.scss",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\mixins\\_avatar.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\mixins\\_footer.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_footer.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/mixins/_footer.scss",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\mixins\\_footer.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\mixins\\_menu.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_menu.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/mixins/_menu.scss",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\mixins\\_menu.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\mixins\\_misc.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_misc.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/mixins/_misc.scss",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\mixins\\_misc.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\mixins\\_navbar.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_navbar.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/mixins/_navbar.scss",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\mixins\\_navbar.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_components\\mixins\\_text-divider.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_text-divider.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_components/mixins/_text-divider.scss",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_components\\mixins\\_text-divider.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_bootstrap-extended.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_custom-variables/_bootstrap-extended.scss",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_custom-variables\\_bootstrap-extended.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_custom-variables\\_components.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_components.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_custom-variables/_components.scss",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_custom-variables\\_components.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_custom-variables\\_libs.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_libs.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_custom-variables/_libs.scss",
       "AssetKind": "All",
@@ -3961,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_custom-variables\\_libs.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_custom-variables\\_pages.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_pages.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_custom-variables/_pages.scss",
       "AssetKind": "All",
@@ -3978,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_custom-variables\\_pages.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_custom-variables\\_support.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_support.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_custom-variables/_support.scss",
       "AssetKind": "All",
@@ -3995,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_custom-variables\\_support.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_theme\\_common.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_theme\\_common.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_theme/_common.scss",
       "AssetKind": "All",
@@ -4012,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_theme\\_common.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\_theme\\_theme.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_theme\\_theme.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/_theme/_theme.scss",
       "AssetKind": "All",
@@ -4029,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\_theme\\_theme.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\core.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\core.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/core.scss",
       "AssetKind": "All",
@@ -4046,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\core.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\pages\\page-account-settings.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\pages\\page-account-settings.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/pages/page-account-settings.scss",
       "AssetKind": "All",
@@ -4063,10 +4063,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\pages\\page-account-settings.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\pages\\page-auth.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\pages\\page-auth.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/pages/page-auth.scss",
       "AssetKind": "All",
@@ -4080,10 +4080,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\pages\\page-auth.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\pages\\page-icons.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\pages\\page-icons.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/pages/page-icons.scss",
       "AssetKind": "All",
@@ -4097,10 +4097,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\pages\\page-icons.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\pages\\page-misc.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\pages\\page-misc.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/pages/page-misc.scss",
       "AssetKind": "All",
@@ -4114,10 +4114,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\pages\\page-misc.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\scss\\theme-default.scss",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\theme-default.scss",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/scss/theme-default.scss",
       "AssetKind": "All",
@@ -4131,10 +4131,10 @@
       "OriginalItemSpec": "wwwroot\\template\\scss\\theme-default.scss"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\tasks\\build.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\tasks\\build.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/tasks/build.js",
       "AssetKind": "All",
@@ -4148,10 +4148,10 @@
       "OriginalItemSpec": "wwwroot\\template\\tasks\\build.js"
     },
     {
-      "Identity": "D:\\project-net\\MyMvcProject\\wwwroot\\template\\tasks\\prod.js",
+      "Identity": "D:\\project-net\\project-net-1\\wwwroot\\template\\tasks\\prod.js",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-net\\MyMvcProject\\wwwroot\\",
+      "ContentRoot": "D:\\project-net\\project-net-1\\wwwroot\\",
       "BasePath": "_content/MyMvcProject",
       "RelativePath": "template/tasks/prod.js",
       "AssetKind": "All",
