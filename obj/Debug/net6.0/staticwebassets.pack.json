@@ -1,975 +1,987 @@
 {
   "Files": [
     {
-      "Id": "D:\\project-net\\project-net-1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyMvcProject.bundle.scp.css",
+      "Id": "D:\\SQL2022\\project-net-1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyMvcProject.bundle.scp.css",
       "PackagePath": "staticwebassets\\MyMvcProject.bundle.scp.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\css\\site.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\Product\\Hàm Map.png",
+      "PackagePath": "staticwebassets\\Product\\Hàm Map.png"
+    },
+    {
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\Product\\Screenshot 2022-12-31 212739.png",
+      "PackagePath": "staticwebassets\\Product\\Screenshot 2022-12-31 212739.png"
+    },
+    {
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\Product\\Screenshot 2022-12-31 212820.png",
+      "PackagePath": "staticwebassets\\Product\\Screenshot 2022-12-31 212820.png"
+    },
+    {
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\favicon.ico",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\js\\site.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\css\\demo.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\css\\demo.css",
       "PackagePath": "staticwebassets\\template\\assets\\css\\demo.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\1.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\1.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\avatars\\1.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\5.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\5.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\avatars\\5.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\6.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\6.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\avatars\\6.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\7.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\avatars\\7.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\avatars\\7.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\backgrounds\\18.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\backgrounds\\18.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\backgrounds\\18.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\1.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\1.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\1.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\11.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\11.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\11.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\12.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\12.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\12.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\13.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\13.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\13.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\17.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\17.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\17.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\18.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\18.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\18.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\19.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\19.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\19.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\2.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\2.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\2.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\20.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\20.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\20.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\3.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\3.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\3.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\4.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\4.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\4.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\5.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\5.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\5.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\7.jpg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\elements\\7.jpg",
       "PackagePath": "staticwebassets\\template\\assets\\img\\elements\\7.jpg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\favicon\\favicon.ico",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\favicon\\favicon.ico",
       "PackagePath": "staticwebassets\\template\\assets\\img\\favicon\\favicon.ico"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\asana.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\asana.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\brands\\asana.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\behance.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\behance.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\brands\\behance.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\dribbble.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\dribbble.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\brands\\dribbble.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\facebook.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\facebook.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\brands\\facebook.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\github.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\github.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\brands\\github.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\google.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\google.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\brands\\google.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\instagram.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\instagram.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\brands\\instagram.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\mailchimp.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\mailchimp.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\brands\\mailchimp.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\slack.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\slack.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\brands\\slack.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\twitter.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\brands\\twitter.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\brands\\twitter.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-primary.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\unicons\\cc-primary.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-success.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-success.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\unicons\\cc-success.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\cc-warning.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\unicons\\cc-warning.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\chart-success.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\chart-success.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\unicons\\chart-success.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\chart.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\chart.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\unicons\\chart.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\paypal.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\paypal.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\unicons\\paypal.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\wallet-info.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\unicons\\wallet-info.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\wallet.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\icons\\unicons\\wallet.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\icons\\unicons\\wallet.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\illustrations\\man-with-laptop-light.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\illustrations\\man-with-laptop-light.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\illustrations\\page-misc-error-light.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\illustrations\\page-misc-error-light.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-container-light.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-container-light.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\layouts\\layout-container-light.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-fluid-light.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-fluid-light.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\layouts\\layout-fluid-light.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-without-menu-light.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\layouts\\layout-without-menu-light.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\img\\layouts\\layout-without-navbar-light.png",
       "PackagePath": "staticwebassets\\template\\assets\\img\\layouts\\layout-without-navbar-light.png"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\config.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\js\\config.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\config.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\dashboards-analytics.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\js\\dashboards-analytics.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\dashboards-analytics.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\js\\extended-ui-perfect-scrollbar.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\extended-ui-perfect-scrollbar.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\form-basic-inputs.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\js\\form-basic-inputs.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\form-basic-inputs.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\main.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\main.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\pages-account-settings-account.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\js\\pages-account-settings-account.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\pages-account-settings-account.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\ui-modals.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\js\\ui-modals.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\ui-modals.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\ui-popover.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\js\\ui-popover.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\ui-popover.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\js\\ui-toasts.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\js\\ui-toasts.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\ui-toasts.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\core.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\core.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\css\\core.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-account-settings.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\css\\pages\\page-account-settings.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-auth.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-auth.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\css\\pages\\page-auth.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-icons.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-icons.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\css\\pages\\page-icons.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-misc.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\pages\\page-misc.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\css\\pages\\page-misc.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\theme-default.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\css\\theme-default.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\css\\theme-default.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\fonts\\boxicons.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\js\\bootstrap.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\js\\helpers.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\js\\helpers.js",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\js\\helpers.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\js\\menu.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\js\\menu.js",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\js\\menu.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight-github.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\libs\\highlight\\highlight-github.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\libs\\highlight\\highlight.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\highlight\\highlight.js",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\libs\\highlight\\highlight.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\libs\\jquery\\jquery.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\masonry\\masonry.js",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\libs\\masonry\\masonry.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\popper\\popper.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\assets\\vendor\\libs\\popper\\popper.js",
       "PackagePath": "staticwebassets\\template\\assets\\vendor\\libs\\popper\\popper.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\fonts\\boxicons.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\fonts\\boxicons.scss",
       "PackagePath": "staticwebassets\\template\\fonts\\boxicons.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\js\\bootstrap.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\template\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\js\\helpers.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\js\\helpers.js",
       "PackagePath": "staticwebassets\\template\\js\\helpers.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\js\\menu.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\js\\menu.js",
       "PackagePath": "staticwebassets\\template\\js\\menu.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\apex-charts\\apex-charts.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\libs\\apex-charts\\apex-charts.scss",
       "PackagePath": "staticwebassets\\template\\libs\\apex-charts\\apex-charts.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\apex-charts\\apexcharts.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\libs\\apex-charts\\apexcharts.js",
       "PackagePath": "staticwebassets\\template\\libs\\apex-charts\\apexcharts.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\highlight\\highlight-github.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\libs\\highlight\\highlight-github.scss",
       "PackagePath": "staticwebassets\\template\\libs\\highlight\\highlight-github.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\highlight\\highlight.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\libs\\highlight\\highlight.js",
       "PackagePath": "staticwebassets\\template\\libs\\highlight\\highlight.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\highlight\\highlight.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\libs\\highlight\\highlight.scss",
       "PackagePath": "staticwebassets\\template\\libs\\highlight\\highlight.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\jquery\\jquery.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\libs\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\template\\libs\\jquery\\jquery.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\masonry\\masonry.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\libs\\masonry\\masonry.js",
       "PackagePath": "staticwebassets\\template\\libs\\masonry\\masonry.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
       "PackagePath": "staticwebassets\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
       "PackagePath": "staticwebassets\\template\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\libs\\popper\\popper.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\libs\\popper\\popper.js",
       "PackagePath": "staticwebassets\\template\\libs\\popper\\popper.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_accordion.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_accordion.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_accordion.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_alert.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_alert.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_alert.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_badge.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_badge.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_badge.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_button-group.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_button-group.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_button-group.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_buttons.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_buttons.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_buttons.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_card.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_card.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_card.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_carousel.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_carousel.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_carousel.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_close.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_close.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_close.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_dropdown.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_dropdown.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_forms.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_forms.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_forms.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_functions.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_functions.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_functions.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_include.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_include.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_include.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_list-group.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_list-group.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_list-group.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_mixins.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_mixins.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_mixins.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_modal.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_modal.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_modal.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_nav.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_nav.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_nav.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_navbar.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_navbar.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_navbar.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_offcanvas.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_pagination.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_pagination.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_pagination.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_popover.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_popover.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_popover.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_progress.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_progress.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_progress.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_reboot.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_reboot.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_reboot.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_root.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_root.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_root.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_spinners.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_spinners.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_spinners.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_tables.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_tables.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_tables.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_toasts.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_toasts.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_toasts.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_tooltip.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_tooltip.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_type.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_type.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_type.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_utilities.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_utilities.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_utilities.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_variables.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\_variables.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\_variables.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\forms\\_labels.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\forms\\_validation.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_bootstrap.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_bootstrap.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_bootstrap.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_colors.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_colors.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_colors.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_app-brand.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_app-brand.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_app-brand.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_avatar.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_avatar.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_avatar.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_base.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_base.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_base.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_common.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_common.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_common.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_footer.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_footer.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_footer.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_include.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_include.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_include.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_layout.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_layout.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_layout.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_menu.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_menu.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_menu.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_mixins.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_mixins.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_mixins.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_text-divider.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_text-divider.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_text-divider.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\_variables.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\_variables.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\_variables.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_app-brand.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_app-brand.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\mixins\\_app-brand.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_avatar.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_avatar.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\mixins\\_avatar.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_footer.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_footer.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\mixins\\_footer.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_menu.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_menu.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\mixins\\_menu.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_misc.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_misc.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\mixins\\_misc.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_navbar.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_navbar.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\mixins\\_navbar.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_text-divider.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_components\\mixins\\_text-divider.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_components\\mixins\\_text-divider.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_bootstrap-extended.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_custom-variables\\_bootstrap-extended.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_components.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_components.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_custom-variables\\_components.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_libs.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_libs.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_custom-variables\\_libs.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_pages.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_pages.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_custom-variables\\_pages.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_support.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_custom-variables\\_support.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_custom-variables\\_support.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_theme\\_common.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_theme\\_common.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_theme\\_common.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\_theme\\_theme.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\_theme\\_theme.scss",
       "PackagePath": "staticwebassets\\template\\scss\\_theme\\_theme.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\core.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\core.scss",
       "PackagePath": "staticwebassets\\template\\scss\\core.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\pages\\page-account-settings.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\pages\\page-account-settings.scss",
       "PackagePath": "staticwebassets\\template\\scss\\pages\\page-account-settings.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\pages\\page-auth.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\pages\\page-auth.scss",
       "PackagePath": "staticwebassets\\template\\scss\\pages\\page-auth.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\pages\\page-icons.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\pages\\page-icons.scss",
       "PackagePath": "staticwebassets\\template\\scss\\pages\\page-icons.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\pages\\page-misc.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\pages\\page-misc.scss",
       "PackagePath": "staticwebassets\\template\\scss\\pages\\page-misc.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\scss\\theme-default.scss",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\scss\\theme-default.scss",
       "PackagePath": "staticwebassets\\template\\scss\\theme-default.scss"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\tasks\\build.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\tasks\\build.js",
       "PackagePath": "staticwebassets\\template\\tasks\\build.js"
     },
     {
-      "Id": "D:\\project-net\\project-net-1\\wwwroot\\template\\tasks\\prod.js",
+      "Id": "D:\\SQL2022\\project-net-1\\wwwroot\\template\\tasks\\prod.js",
       "PackagePath": "staticwebassets\\template\\tasks\\prod.js"
     },
     {

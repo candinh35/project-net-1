@@ -9,6 +9,13 @@ builder.Services.AddDbContext<DataContext>(option =>
 {
     option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+builder.Services.AddMemoryCache();
+builder.Services.AddSession(ops =>
+{
+    ops.IdleTimeout = TimeSpan.FromSeconds(5);
+    ops.Cookie.Name = "Admin";
+    ops.Cookie.HttpOnly = true;
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -23,6 +30,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseSession();
 
 app.UseAuthorization();
 app.MapControllerRoute(
